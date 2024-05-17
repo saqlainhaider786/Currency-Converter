@@ -1,5 +1,5 @@
 {
-  "name": "curr_con",
+  "name": "sshr_currcon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "dependencies": {
     "chalk": "^5.3.0",
     "inquirer": "^9.2.21",
+    "sshr_currcon": "^1.0.0",
     "talal_wordcount": "^1.0.0"
   },
   "devDependencies": {
